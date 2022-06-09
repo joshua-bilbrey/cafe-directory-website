@@ -1,4 +1,4 @@
-# cafe-directory-website
+# Cafe Directory
 A basic flask website that allows you to add and review cafes.
 
 Website hosted locally with flask. Includes generic cafe database.
